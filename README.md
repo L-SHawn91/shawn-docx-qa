@@ -2,6 +2,8 @@
 
 QA docs layer: public-safe DOCX metadata and structure checks using toy/example documents only. HWP/HWPX conversion remains a separate utility card.
 
+**License:** Apache-2.0
+
 ## SHawn OSS stack role
 
 ```text
