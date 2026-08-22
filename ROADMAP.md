@@ -7,7 +7,7 @@ shawn-docx-qa is an early-stage public-safe scaffold. APIs are unstable and exam
 - Keep the public boundary scanner passing.
 - Add small tests and toy examples for the layer role.
 - Improve documentation for contributors.
-- Link changes back to the SHawn EvidenceMap flagship when they affect the public evidence workflow.
+- Link changes back to the SHawn Research OS flagship when they affect the public evidence workflow.
 
 ## Boundary
 
